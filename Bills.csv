@@ -1,0 +1,11 @@
+Bill_ID,Patient_ID,Total_Amount,Status
+1,1,2000.50,Paid
+2,2,1500.00,Paid
+3,3,3500.75,Unpaid
+4,4,500.00,Paid
+5,5,2750.00,Unpaid
+6,6,1800.20,Paid
+7,7,2200.50,Unpaid
+8,8,1400.00,Paid
+9,9,3300.10,Unpaid
+10,10,1750.00,Paid

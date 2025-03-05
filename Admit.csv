@@ -1,0 +1,11 @@
+Admission_ID,Patient_ID,Room_No,Admission_Date,Discharge_Date,Status
+1,1,101,"2025-02-05 06:00:00","2025-03-05 00:32:55",Discharged
+2,2,102,"2025-03-04 10:00:00",NULL,Admitted
+3,3,103,"2025-03-03 14:00:00",NULL,Admitted
+4,4,104,"2025-03-02 09:30:00",NULL,Admitted
+5,5,105,"2025-03-01 18:45:00",NULL,Admitted
+6,6,106,"2025-02-28 08:00:00",NULL,Admitted
+7,7,107,"2025-02-27 12:15:00",NULL,Admitted
+8,8,108,"2025-02-26 17:30:00",NULL,Admitted
+9,9,109,"2025-02-25 11:00:00",NULL,Admitted
+10,10,110,"2025-02-24 15:00:00",NULL,Admitted
